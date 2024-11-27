@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py datasets/ip/Test datasets/output/Test
+--------------------
+tensorflow version: 1.13.1
+--------------------
+git hash: b''
+--------------------
+b''
