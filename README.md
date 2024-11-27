@@ -5,5 +5,5 @@ This is a mobile app which uses deep learning models to get different faces out 
 The Mobile app code is in AttendanceApp.zip file.
 
 Referred:
-https://github.com/davidsandberg/facenet
-https://github.com/tbmoon/facenet
+1. https://github.com/davidsandberg/facenet
+2. https://github.com/tbmoon/facenet
